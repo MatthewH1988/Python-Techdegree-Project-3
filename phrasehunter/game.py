@@ -1,6 +1,6 @@
 import random
 import sys
-from phrase import Phrase
+from phrasehunter.phrase import Phrase
 
 class Game:
     def __init__(self):
